@@ -1,0 +1,110 @@
+#button-id-68- { min-height: 27px; margin: unset; color: rgb(255, 255, 255); font-size: 18px; border-radius: 4px; background-color: rgba(255, 255, 255, 0); width: auto; font-weight: 700; letter-spacing: 0px; line-height: 20.4px; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+#button-id-68-:active, #button-id-68-.active { color: rgb(0, 0, 0); }
+
+#button-id-68-:hover, #button-id-68-.hover { color: rgba(0, 0, 0, 0.5); }
+
+#container-id-10- { min-height: 100px; margin: unset; background-color: rgba(238, 238, 238, 0); align-items: flex-start; padding: 0px 80px; justify-content: space-between; width: 100%; flex-direction: row; }
+
+#container-id-10- > * { max-width: 100%; }
+
+#container-id-5- { margin: unset;
+  width: 100%; justify-content: center; align-items: center; min-height: 100vh; flex-direction: column; background-color: rgb(89, 58, 203); }
+
+#container-id-5- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-5- > :last-child, #container-id-5- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-6- { min-height: 106px; margin: unset; background-color: rgba(238, 238, 238, 0); width: 100%; align-items: center; left: 0px; justify-content: center; padding: 80px; flex-direction: column; }
+
+#container-id-6- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 12px !important; }
+
+#container-id-6- > :last-child, #container-id-6- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-8- { min-height: 80px; margin: unset; background-color: rgba(238, 238, 238, 0); left: 0px; align-items: flex-end; padding: 0px 80px; justify-content: center; width: 100%; flex-direction: row; }
+
+#container-id-8- > * { max-width: 100%; margin-right: 48px !important; margin-bottom: 0px !important; }
+
+#container-id-8- > :last-child, #container-id-8- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container { align-items: flex-start; justify-content: flex-start; flex-direction: column; }
+
+#content-container > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#text-id-2- { margin: unset; background-color: rgba(0, 0, 0, 0); width: auto; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; letter-spacing: 0px; line-height: 22.5px; font-size: 20px; font-weight: 600; color: rgb(255, 255, 255); }
+
+[data-item-of="button-id-10-popover"] { font-size: 15px; background-color: rgba(255, 255, 255, 0); padding: 8px 16px; }
+
+[data-item-of="button-id-10-popover"]:active, [data-item-of="button-id-10-popover"].active { background-color: rgba(255, 255, 255, 0); }
+
+[data-item-of="button-id-10-popover"]:hover, [data-item-of="button-id-10-popover"].hover { background-color: rgba(0, 0, 0, 0.1); }
+  #root-container {
+    background-position: center center;
+  
+  background-color: rgb(255, 255, 255);}
+
+@media (min-width:1025px) {#container-id-10- { flex-grow: 0 !important; }
+
+#container-id-5- > * { flex-grow: 1; }
+
+#container-id-8- { flex-grow: 0 !important; }
+
+#content-container { display: flex; }}
+
+@media (min-width:641px) and (max-width:1024px) {#container-id-10- { align-items: center; justify-content: flex-start; min-height: 168px; flex-direction: column; flex-grow: 0 !important; }
+
+#container-id-10- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 24px !important; }
+
+#container-id-10- > :last-child, #container-id-10- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-5- { flex-direction: column; }
+
+#container-id-5- > * { flex-grow: 1; max-width: 100%; }
+
+#container-id-6- { padding: 40px; flex-direction: column; }
+
+#container-id-6- > * { max-width: 100%; }
+
+#container-id-8- { flex-direction: row; flex-grow: 0 !important; }
+
+#container-id-8- > * { max-width: 100%; margin-right: 48px !important; margin-bottom: 0px !important; }
+
+#container-id-8- > :last-child, #container-id-8- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container { align-items: flex-start; justify-content: flex-start; flex-direction: column; display: flex; }
+
+#content-container > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }}
+
+@media (max-width:640px) {#button-id-68- { letter-spacing: 0px; line-height: 18.1333px; font-size: 16px; }
+
+#container-id-10- { align-items: center; justify-content: center; padding: 0px 24px; min-height: auto; flex-direction: column; flex-grow: 0 !important; }
+
+#container-id-10- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 24px !important; }
+
+#container-id-10- > :last-child, #container-id-10- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-5- { height: unset; padding: 40px 0px; min-height: 100vh; flex-direction: column; }
+
+#container-id-5- > * { flex-grow: 1; max-width: 100%; margin-right: 0px !important; margin-bottom: 80px !important; }
+
+#container-id-5- > :last-child, #container-id-5- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-6- { padding: 24px; flex-direction: column; }
+
+#container-id-6- > * { max-width: 100%; }
+
+#container-id-8- { min-height: auto; flex-direction: row; flex-grow: 0 !important; }
+
+#container-id-8- > * { max-width: 100%; }
+
+#content-container { align-items: flex-start; justify-content: flex-start; flex-direction: column; display: flex; }
+
+#content-container > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }}
