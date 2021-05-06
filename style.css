@@ -1,0 +1,6 @@
+body {
+    background: rgb(104, 70, 131);
+    padding-top: 5em;
+    display: flex;
+    justify-content: center;
+  }
