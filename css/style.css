@@ -6,6 +6,8 @@ body {
   }
 
   h1 {
+    color: #fff;
+    font-family: monospace;
     overflow: hidden; 
     border-right: .15em solid rgb(76, 238, 26); 
     white-space: nowrap;
