@@ -5,7 +5,7 @@ body {
     justify-content: center;
   }
 
-  .typewriter h1 {
+  h1 {
     overflow: hidden; 
     border-right: .15em solid rgb(76, 238, 26); 
     white-space: nowrap;
